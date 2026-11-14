@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import os
 import pickle
 import glob
@@ -1266,5 +1265,4 @@ st.markdown(
 """,
     unsafe_allow_html=True,
 )
->>>>>>> b0da08f8e1061575899e11788ed7b0f164c61b99
  
