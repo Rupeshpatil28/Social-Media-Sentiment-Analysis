@@ -1125,7 +1125,7 @@ if tweet:
     st.markdown(f'<div class="meta-line">{len(tweet)} characters</div>', unsafe_allow_html=True)
 st.markdown("</div>", unsafe_allow_html=True)
 
-analyze = st.button("🔍 Analyze Sentiment", type="primary", key="analyze_button")
+analyze = st.button("🔍 Analyze Sentiment", type="primary", key="analyze_button_2")
 st.markdown("</div>", unsafe_allow_html=True)
 
 
