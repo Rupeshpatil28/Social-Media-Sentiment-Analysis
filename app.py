@@ -1119,7 +1119,7 @@ tweet = st.text_area(
     height=155,
     placeholder="Example: I absolutely love this product! The experience was amazing.",
     label_visibility="collapsed",
-    key="key="tweet_text_area_2",",
+    key="tweet_text_area_2",
 )
 if tweet:
     st.markdown(f'<div class="meta-line">{len(tweet)} characters</div>', unsafe_allow_html=True)
